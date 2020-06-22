@@ -1,0 +1,16 @@
+﻿using System;
+
+namespace _6._05
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int a = Convert.ToInt32(Console.ReadLine());
+            int b = Convert.ToInt32(Console.ReadLine());
+            int z = (a + b) / 2;
+
+            Console.WriteLine();
+        }
+    }
+}

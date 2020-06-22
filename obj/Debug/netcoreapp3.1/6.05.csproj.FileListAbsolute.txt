@@ -1,0 +1,12 @@
+/Users/olegstrokov/Projects/6.05/6.05/bin/Debug/netcoreapp3.1/6.05.deps.json
+/Users/olegstrokov/Projects/6.05/6.05/bin/Debug/netcoreapp3.1/6.05.runtimeconfig.json
+/Users/olegstrokov/Projects/6.05/6.05/bin/Debug/netcoreapp3.1/6.05.runtimeconfig.dev.json
+/Users/olegstrokov/Projects/6.05/6.05/bin/Debug/netcoreapp3.1/6.05.dll
+/Users/olegstrokov/Projects/6.05/6.05/bin/Debug/netcoreapp3.1/6.05.pdb
+/Users/olegstrokov/Projects/6.05/6.05/obj/Debug/netcoreapp3.1/6.05.csprojAssemblyReference.cache
+/Users/olegstrokov/Projects/6.05/6.05/obj/Debug/netcoreapp3.1/6.05.csproj.CoreCompileInputs.cache
+/Users/olegstrokov/Projects/6.05/6.05/obj/Debug/netcoreapp3.1/6.05.AssemblyInfoInputs.cache
+/Users/olegstrokov/Projects/6.05/6.05/obj/Debug/netcoreapp3.1/6.05.AssemblyInfo.cs
+/Users/olegstrokov/Projects/6.05/6.05/obj/Debug/netcoreapp3.1/6.05.dll
+/Users/olegstrokov/Projects/6.05/6.05/obj/Debug/netcoreapp3.1/6.05.pdb
+/Users/olegstrokov/Projects/6.05/6.05/obj/Debug/netcoreapp3.1/6.05.genruntimeconfig.cache
