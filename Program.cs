@@ -16,6 +16,7 @@ namespace _6._05
             double x4 = (x1 + x2)/ x3;
 
             double xyz = 123;
+            int xyz = 321;
 
             if (x2 == x + x1 && x2 > 0) 
             {
