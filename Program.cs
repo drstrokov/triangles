@@ -15,6 +15,8 @@ namespace _6._05
             double x3 = Math.Cos( - 2 * b * c);
             double x4 = (x1 + x2)/ x3;
 
+            double xyz = 123;
+
             if (x2 == x + x1 && x2 > 0) 
             {
                 Console.WriteLine("right");
